@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce476844-ae90-4860-9926-ad819646d78c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/helloworld/src/helloworld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d1h1kSsOFQabK4Ut5MnfMpLtYH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Week_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.helloweek">
+    <configuration name="AMDX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AMDX" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloweek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="helloweek" />
+      <module name="Week_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.helloweek" />
+        <item itemvalue="Application.helloworld" />
+        <item itemvalue="Application.AMDX" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce476844-ae90-4860-9926-ad819646d78c" name="Default Changelist" comment="" />
+      <created>1591598294603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591598294603</updated>
+      <workItem from="1591598299580" duration="3677000" />
+      <workItem from="1591602118721" duration="306000" />
+      <workItem from="1591602462649" duration="197000" />
+      <workItem from="1591602793043" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1591602479846">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1591602479846" />
+    <state x="339" y="0" width="617" height="720" key="#helloweek" timestamp="1591602392285">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="339" y="0" width="617" height="720" key="#helloweek/0.0.1280.720@0.0.1280.720" timestamp="1591602392285" />
+    <state x="421" y="108" key="FileChooserDialogImpl" timestamp="1591602581341">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="108" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1591602581341" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1591601999105">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591601999105" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1591601999105">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1591601999105" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1591601999105">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1591601999105" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1591601999105">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1591601999105" />
+    <state x="315" y="65" key="NewModule_or_Project.wizard" timestamp="1591600737979">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="315" y="65" key="NewModule_or_Project.wizard/0.0.1280.720@0.0.1280.720" timestamp="1591600737979" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1591602496891">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1591602496891" />
+    <state x="91" y="0" key="new project wizard" timestamp="1591602913642">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1591602913642" />
+  </component>
+</project>
