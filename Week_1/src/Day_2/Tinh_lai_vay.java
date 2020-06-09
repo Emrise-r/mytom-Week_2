@@ -13,7 +13,7 @@ public class Tinh_lai_vay {
         int t = Scan.nextInt();
         double tong = 0;
         for (int i = 1; i <= t; i++) {
-            tong = m * (s / 100) /12 * i;
+            tong += m * (s / 100) /12 * i;
         }
         System.out.println(tong);
     }
