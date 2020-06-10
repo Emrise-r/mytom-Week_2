@@ -21,8 +21,8 @@ public class D_n_mang {
             i++;
         }
         System.out.printf("%-20s%s", "Elements in array: ", "");
-        for (int j = 0; j < array.length; j++) {
-            System.out.print(array[j] + "\t");
+        for (int value : array) {
+            System.out.print(value + "\t");
         }
         for (int j = 0; j < array.length / 2; j++) {
             int temp = array[j];
@@ -30,8 +30,8 @@ public class D_n_mang {
             array[size - 1 - j] = temp;
         }
         System.out.printf("%-20s%s", "Reverse array: ", "");
-        for (int j = 0; j < array.length; j++) {
-            System.out.print(array[j] + "\t");
+        for (int value : array) {
+            System.out.print(value + "\t");
         }
     }
 }

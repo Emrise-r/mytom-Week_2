@@ -27,12 +27,12 @@ public class Inhinh {
         }
         System.out.print("\n");
         System.out.println("\n in hinh tam giac can");
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 5; i++) {
             System.out.print("\n");
-            for (int j = 1; j <= 3 - i; j++) {
+            for (int j = 1; j <= 5 - i; j++) {
                 System.out.print("   ");
             }
-            for (int k = 1; k <= 2 * (i - 1) +1; k++ ) {
+            for (int k = 1; k <= 2 * (i - 1) + 1; k++ ) {
                 System.out.print(" * ");
             }
         }
