@@ -59,7 +59,16 @@ public class PTbac2 {
         PTbac2 pTbac2 = new PTbac2(a, b, c);
         System.out.println("delta: ");
         System.out.println(pTbac2.getDelta());
-        System.out.println(pTbac2.getRoot1());
-        System.out.println(pTbac2.getRoot2());
+        if (pTbac2.getDelta() > 0) {
+            System.out.println("nghiem 1 la");
+            System.out.println(pTbac2.getRoot1());
+            System.out.println("nghiem 2 la");
+            System.out.println(pTbac2.getRoot2());
+        } else if (pTbac2.getDelta() == 0) {
+            System.out.println("Pt co nghiem kep");
+            System.out.println(pTbac2.getRoot1());
+        } else {
+            System.out.println("Pt vo nghiem");
+        }
     }
 }
