@@ -1,6 +1,5 @@
 package pack;
 
-import com.*;
 
 class B extends Access_Modifier  {
     public static void main(String[] args) {

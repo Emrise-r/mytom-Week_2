@@ -2,21 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c487b03-3767-4572-8e2d-4e914753844b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_1/Doc_so.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Gop_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Min_ma_tran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Minarr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Them_phan_tu_vao_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Xoa_phan_tu_mang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/Class_hcn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/PTbac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_2_Point2D_Point3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_2_Point2D_Point3D/Point2D_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_2_Point2D_Point3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_2_Point2D_Point3D/Point3D_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_3_Point_MoveablePoint/Chaythu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_3_Point_MoveablePoint/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_3_Point_MoveablePoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_4_Triangle/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/BT_4_Triangle/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Bt_1_Circle_Cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Bt_1_Circle_Cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Bt_1_Circle_Cylinder/Test_Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Demo/Demo_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Demo/Demo_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Demo/Demo_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/Demo/Demo_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/TH/Circle_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/TH/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/TH/Rectangle_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/TH/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_1/src/TH/Shape_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/BT_1_Resize/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/BT_1_Resize/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/BT_1_Resize/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/BT_1_Resize/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/BT_1_Resize/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/BT_1_Resize/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/Demo_1/AnimalList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/Demo_1/DogTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_1/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_2/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_2/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_2/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_3/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_2/src/TH_3/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_3/src/Th_1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_2/src/Day_3/src/Th_2/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Week_1/Day_2/Inhinh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Week_1/Day_2/Inhinh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Week_1/Day_3/Chuyen_nhiet_do.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Week_1/Day_3/Chuyen_nhiet_do.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_2/Inhinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/Inhinh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_3/Chuyen_nhiet_do.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3/Chuyen_nhiet_do.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week_2/src/Day_3" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,6 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1591865174128</updated>
       <workItem from="1591865175674" duration="40000" />
+      <workItem from="1592364948459" duration="430000" />
+      <workItem from="1592375471195" duration="142000" />
     </task>
     <servers />
   </component>
@@ -57,9 +92,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1591865214019">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1592375615150">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1591865214019" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1592375615150" />
   </component>
 </project>
